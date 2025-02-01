@@ -1,6 +1,6 @@
 module.exports = Object.freeze({
-    DB_HOST : '',
-    DB_USER : '',
-    DB_PWD : '',
+    DB_HOST : '', //Enter Database Endpoint
+    DB_USER : '', //DB User
+    DB_PWD : '', //DB password
     DB_DATABASE : ''
 });
