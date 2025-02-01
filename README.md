@@ -10,7 +10,8 @@
 
 
 
-![Three-Tier Architecture](![alt text](image.png))
+**Three-Tier Architecture**
+(![alt text](image.png))
 
 
 ### Overview
